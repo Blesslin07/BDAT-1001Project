@@ -10,18 +10,18 @@ This project applies machine learning techniques to detect fraudulent transactio
 ## Requirements
 * Python 3.8+
 * Libraries:
-*  pandas
-*  numpy
-*  sklearn
-*  imbalanced-learn
-*  keras
+ *  pandas
+ *  numpy
+ *  sklearn
+ *  imbalanced-learn
+ *  keras
 ## Setup Instructions
-* Clone the repository: '''git clone https://github.com/Priyank-0704/MLP_final_project.git
-* Navigate to the project directory: ''' cd project-name
-* Install dependencies: '''pip install -r requirements.txt
-* Run the Jupyter Notebook: '''jupyter notebook fraud_detection.ipynb
+* Clone the repository: ``` git clone https://github.com/Priyank-0704/MLP_final_project.git
+* Navigate to the project directory: ``` cd project-name
+* Install dependencies: ``` pip install -r requirements.txt
+* Run the Jupyter Notebook: ``` jupyter notebook fraud_detection.ipynb
 ## Results
-*The implemented deep learning model achieved:
+The implemented deep learning model achieved:
 
 * ROC-AUC score: 0.96
 * Recall: 92%
