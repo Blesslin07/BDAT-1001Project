@@ -24,16 +24,15 @@ This project applies machine learning techniques to detect fraudulent transactio
    git clone https://github.com/Priyank-0704/MLP_final_project.git
 2. Navigate to the project directory:
    ```bash
-cd final_project
+   cd final_project
 3. Install dependencies:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 4. Run the Jupyter Notebook:
    ```bash
-fraud_detection.ipynb
+   fraud_detection.ipynb
 ## Results
 The implemented deep learning model achieved:
-
 - ROC-AUC score: 0.96
 - Recall: 92%
 ## Future Scope
